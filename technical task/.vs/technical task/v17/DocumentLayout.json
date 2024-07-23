@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\technical-task\\technical task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE1BBF-9E91-3EDE-9A94-B422BC76695A}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\technical-task\\technical task\\assets\\scripts\\ui\\openinvetoryanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE1BBF-9E91-3EDE-9A94-B422BC76695A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\openinvetoryanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE1BBF-9E91-3EDE-9A94-B422BC76695A}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\technical-task\\technical task\\assets\\scripts\\ui\\collectibleiconanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE1BBF-9E91-3EDE-9A94-B422BC76695A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\collectibleiconanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE1BBF-9E91-3EDE-9A94-B422BC76695A}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\technical-task\\technical task\\assets\\scripts\\figure\\collectiblefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE1BBF-9E91-3EDE-9A94-B422BC76695A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\figure\\collectiblefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE1BBF-9E91-3EDE-9A94-B422BC76695A}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\technical-task\\technical task\\assets\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE1BBF-9E91-3EDE-9A94-B422BC76695A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\technical-task\\technical task\\Assets\\Scripts\\UI\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\technical-task\\technical task\\Assets\\Scripts\\UI\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:48:48.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollectibleFigure.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\technical-task\\technical task\\Assets\\Scripts\\Figure\\CollectibleFigure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Figure\\CollectibleFigure.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\technical-task\\technical task\\Assets\\Scripts\\Figure\\CollectibleFigure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Figure\\CollectibleFigure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:48:45.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectibleIconAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\technical-task\\technical task\\Assets\\Scripts\\UI\\CollectibleIconAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CollectibleIconAnimator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\technical-task\\technical task\\Assets\\Scripts\\UI\\CollectibleIconAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CollectibleIconAnimator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:54:36.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenInvetoryAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\technical-task\\technical task\\Assets\\Scripts\\UI\\OpenInvetoryAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\OpenInvetoryAnimation.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\technical-task\\technical task\\Assets\\Scripts\\UI\\OpenInvetoryAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\OpenInvetoryAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:54:34.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
